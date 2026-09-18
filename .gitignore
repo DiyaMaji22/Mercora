@@ -1,0 +1,33 @@
+# Java / Maven
+target/
+*.jar
+*.war
+*.ear
+.mvn/
+mvnw
+mvnw.cmd
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+.env*.local
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
