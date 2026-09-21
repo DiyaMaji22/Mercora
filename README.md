@@ -1,4 +1,4 @@
-# Flashmarket — Flash-Sale E-Commerce Platform
+# Mercora — Flash-Sale E-Commerce Platform
 
 A microservices e-commerce platform built around one hard problem: selling
 a small pool of stock to a large number of concurrent buyers without
